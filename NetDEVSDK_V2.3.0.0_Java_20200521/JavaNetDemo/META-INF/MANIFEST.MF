@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: libs/jna.jar
-Main-Class: main.java.com.netdevsdk.demo.NetDemo
-
